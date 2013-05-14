@@ -3955,7 +3955,7 @@ fnSB._setOptions=function(){
 			str += "</tr>";
 		}
 		
-		 str  += "<tr></tr>"
+		 str  += "<tr><td>XXX</td></tr>"
         str += "</table>";
         this.$header.empty();
         this.$header.append(str);
